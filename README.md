@@ -8,3 +8,4 @@
 |216|[Combination Sum 3](https://leetcode.com/problems/combination-sum-iii/description/)|Backtracking|[Python](./code/Combination_Sum_III/CombinationSumIII.py)|Medium|
 |229|[Majority Element 2](https://leetcode.com/problems/majority-element-ii/description/)|Array, HashMap|[Python](./code/Majority_Element_II/MajorityElementII.py)|Medium|
 |113|[Path Sum 2](https://leetcode.com/problems/path-sum-ii/description/)|DFS, Recursion|[Python](./code/Path_Sum_II/PathSumII.py)|Medium|
+|2566|[Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/)|Array|[Python](./code/Max_Diff_Remap_Digit/MaxDiffRemapDigit.py)|Easy|
