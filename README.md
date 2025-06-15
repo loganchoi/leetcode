@@ -12,3 +12,4 @@
 |77|[Combinations](https://leetcode.com/problems/combinations/description/)|Backtracking|[Python](./code/Combinations/Combinations.py)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|Backtracking|[Python](./code/Subsets/Subsets.py)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|Backtracking|[Python](./code/Permutations/Permutations.py)|Medium|
+|323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|BFS, DFS, Graph|[Python](./code/Num_Connected_Components/NumConnectedComponents.py)|Medium|
