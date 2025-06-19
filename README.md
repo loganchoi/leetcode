@@ -14,3 +14,4 @@
 |46|[Permutations](https://leetcode.com/problems/permutations/)|Backtracking|[Python](./code/Permutations/Permutations.py)|Medium|
 |323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|BFS, DFS, Graph|[Python](./code/Num_Connected_Components/NumConnectedComponents.py)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Sliding Window|[Python](./code/Longest_Substring_Without_Repeat/LongestSubstringWithoutRepeat.py)|Medium|
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)|Sliding Window|[Python](./code/DNA_Sequences/DNASequences.py)|Medium|
