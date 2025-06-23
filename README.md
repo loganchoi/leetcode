@@ -16,3 +16,5 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Sliding Window|[Python](./code/Longest_Substring_Without_Repeat/LongestSubstringWithoutRepeat.py)|Medium|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)|Sliding Window|[Python](./code/DNA_Sequences/DNASequences.py)|Medium|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|Sliding Window|[Python](./code/LongestSubstringWithAtMostKDistinctCharacters/LongestSubstringWithKDistinctChars.py)|Medium|
+|2674|[Split a Circular Linked List](https://leetcode.com/problems/split-a-circular-linked-list)|Linked List|[Python](./code/Split_Circular_Linked_List/SplitCircularLinkedList.py)|Medium|
+|23|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|Linked List, Heap|[Python](./code/Merge_K_Sorted_Lists/MergeKSortedLists.py)|Hard|
