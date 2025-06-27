@@ -19,3 +19,4 @@
 |2674|[Split a Circular Linked List](https://leetcode.com/problems/split-a-circular-linked-list)|Linked List|[Python](./code/Split_Circular_Linked_List/SplitCircularLinkedList.py)|Medium|
 |23|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|Linked List, Heap|[Python](./code/Merge_K_Sorted_Lists/MergeKSortedLists.py)|Hard|
 |3062|[Winner of the Linked List Game](https://leetcode.com/problems/winner-of-the-linked-list-game)|Linked List|[Python](./code/WinnerOfLinkedList/WinnerOfLinkedList.py)|Easy|
+|3063|[Linked List Frequency](https://leetcode.com/problems/linked-list-frequency)|Linked List|[Python](./code/LinkedListFrequency/LinkedListFrequency.py)|Easy|
