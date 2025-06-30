@@ -21,3 +21,4 @@
 |3062|[Winner of the Linked List Game](https://leetcode.com/problems/winner-of-the-linked-list-game)|Linked List|[Python](./code/WinnerOfLinkedList/WinnerOfLinkedList.py)|Easy|
 |3063|[Linked List Frequency](https://leetcode.com/problems/linked-list-frequency)|Linked List|[Python](./code/LinkedListFrequency/LinkedListFrequency.py)|Easy|
 |79|[Word Search](https://leetcode.com/problems/word-search)|DFS, Backtracking|[Python](./code/WordSearch/WordSearch.py)|Medium|
+|364|[Nested List Weight Sum 2](https://leetcode.com/problems/nested-list-weight-sum-ii)|DFS|[Python](./code/NestedListWeightSum2/NestedListWeightSum2.py)|Medium|
