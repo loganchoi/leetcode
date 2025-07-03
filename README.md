@@ -23,3 +23,4 @@
 |79|[Word Search](https://leetcode.com/problems/word-search)|DFS, Backtracking|[Python](./code/WordSearch/WordSearch.py)|Medium|
 |364|[Nested List Weight Sum 2](https://leetcode.com/problems/nested-list-weight-sum-ii)|DFS|[Python](./code/NestedListWeightSum2/NestedListWeightSum2.py)|Medium|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|DFS|[Python](./code/AddOneRowToTree/AddOneRowToTree.py)|Medium|
+|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|BFS|[Python](./code/AverageLevelsBinaryTree/AverageLevelsBinaryTree.py)|Easy|
