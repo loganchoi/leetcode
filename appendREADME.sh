@@ -4,6 +4,12 @@
 
 
 
+# Check for at least 6 arguments
+if [ "$#" -lt 6 ]; then
+  echo "Error: Expected 6 arguments."
+  echo "Usage: $0 <#> <Title> <URL> <Topic> <Folder> <Difficulty>"
+  exit 1
+fi
 
 NUM="$1"
 TITLE="$2"
