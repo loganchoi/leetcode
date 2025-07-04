@@ -27,3 +27,4 @@
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|BFS|[Python](./code/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.py)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|BFS, Tree|[Python](./code/BinaryTreeZigzagTraversal/BinaryTreeZigzagTraversal.py)|Medium|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|DFS, Tree|[Python](./code/MaxDepthNaryTree/MaxDepthNaryTree.py)|Easy|
+|547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces)|Graph, BFS|[Python](./code/NumOfProvinces/NumOfProvinces.py)|Medium|
