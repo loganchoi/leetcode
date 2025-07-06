@@ -29,3 +29,5 @@
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|DFS, Tree|[Python](./code/MaxDepthNaryTree/MaxDepthNaryTree.py)|Easy|
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces)|Graph, BFS|[Python](./code/NumOfProvinces/NumOfProvinces.py)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Heap|[Python](./code/TopKFreqElem/TopKFreqElem.py)|Medium|
+|373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|Heap|[Python](./code/kSmallestPairs/kSmallestPairs.py)|Medium|
+|378|[Kth Smallest Element in Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Heap|[Python](./code/kthSmallestMatrix/kthSmallestMatrix.py)|Medium|
