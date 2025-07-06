@@ -25,6 +25,6 @@ touch code/$FOLDER/"$FOLDER.py"
 
 LINE=$'\n'"|$NUM|[$TITLE]($URL)|$TOPIC|[Python](./code/$FOLDER/$FOLDER.py)|$DIFFICULTY|"
 
-echo "$LINE" >> README.md
+printf "%s" "$LINE" >> README.md
 echo "Appended to README.md:"
 echo "$LINE"
