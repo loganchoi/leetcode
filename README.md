@@ -32,3 +32,4 @@
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|Heap|[Python](./code/kSmallestPairs/kSmallestPairs.py)|Medium|
 |378|[Kth Smallest Element in Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Heap|[Python](./code/kthSmallestMatrix/kthSmallestMatrix.py)|Medium|
 |379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/)|HashSet|[Python](./code/PhoneDirectory/PhoneDirectory.py)|Medium|
+|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)|Sliding Window|[Python](./code/MaxConsecutiveOnes3/MaxConsecutiveOnes3.py)|Medium|
