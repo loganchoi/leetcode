@@ -33,3 +33,4 @@
 |378|[Kth Smallest Element in Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Heap|[Python](./code/kthSmallestMatrix/kthSmallestMatrix.py)|Medium|
 |379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/)|HashSet|[Python](./code/PhoneDirectory/PhoneDirectory.py)|Medium|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)|Sliding Window|[Python](./code/MaxConsecutiveOnes3/MaxConsecutiveOnes3.py)|Medium|
+|2410|[Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers)|Two Pointers, Sorting|[Python](./code/PlayersWithTrainers/PlayersWithTrainers.py)|Medium|
