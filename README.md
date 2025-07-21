@@ -37,3 +37,4 @@
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|Two Pointers, Sorting|[Python](./code/KDiffPairsInArray/KDiffPairsInArray.py)|Medium|
 |2785|[Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)|Sorting, String|[Python](./code/SortVowelsInString/SortVowelsInString.py)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|Sliding Window|[Python](./code/MinSizeSubarraySum/MinSizeSubarraySum.py)|Medium|
+|2024|[Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam)|Sliding Window|[Python](./code/MaxConfusionExam/MaxConfusionExam.py)|Medium|
