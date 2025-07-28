@@ -39,3 +39,4 @@
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|Sliding Window|[Python](./code/MinSizeSubarraySum/MinSizeSubarraySum.py)|Medium|
 |2024|[Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam)|Sliding Window|[Python](./code/MaxConfusionExam/MaxConfusionExam.py)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|BFS|[Python](./code/BinaryTreeLevelOrderTraversal2/BinaryTreeLevelOrderTraversal2.py)|Medium|
+|643|[Max Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|Two Pointers|[Python](./code/MaxAverageSubarray1/MaxAverageSubarray1.py)|Easy|
