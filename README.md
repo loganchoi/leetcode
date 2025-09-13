@@ -42,3 +42,4 @@
 |643|[Max Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|Two Pointers|[Python](./code/MaxAverageSubarray1/MaxAverageSubarray1.py)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description)|Two Pointers|[Python](./code/SumSquareNums/SumSquareNums.py)|Medium|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|BFS|[Python](./code/NaryTreeLevelOrder/NaryTreeLevelOrder.py)|Medium|
+|1839|[Longest Substring of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/)|Sliding Window|[Python](./code/LongSubstringVowelsOrder/LongSubstringVowelsOrder.py)|Medium|
