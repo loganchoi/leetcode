@@ -46,3 +46,4 @@
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|DFS, Hash Table|[Python](./code/MostFrequentSubtreeSum/MostFrequentSubtreeSum.py)|Medium|
 |1602|[Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/)|BFS|[Python](./code/NearestRightNodeBinaryTree/NearestRightNodeBinaryTree.py)|Medium|
 |2962|[Count Subarrays Where Max Element Appears At Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)|Sliding Window|[Python](./code/CountSubarraysMaxElementKTimes/CountSubarraysMaxElementKTimes.py)|Medium|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|Matrix, Set|[Python](./code/SetMatrixZeroes/SetMatrixZeroes.py)|Medium|
