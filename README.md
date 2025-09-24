@@ -48,3 +48,4 @@
 |2962|[Count Subarrays Where Max Element Appears At Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)|Sliding Window|[Python](./code/CountSubarraysMaxElementKTimes/CountSubarraysMaxElementKTimes.py)|Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|Matrix, Set|[Python](./code/SetMatrixZeroes/SetMatrixZeroes.py)|Medium|
 |1451|[Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)|Hash Map, Sorting|[Python](./code/RearrangeWords/RearrangeWords.py)|Medium|
+|2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)|Linked List|[Python](./code/RemoveNodesFromLinkedList/RemoveNodesFromLinkedList.py)|Medium|
