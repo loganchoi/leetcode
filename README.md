@@ -49,3 +49,4 @@
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|Matrix, Set|[Python](./code/SetMatrixZeroes/SetMatrixZeroes.py)|Medium|
 |1451|[Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)|Hash Map, Sorting|[Python](./code/RearrangeWords/RearrangeWords.py)|Medium|
 |2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)|Linked List|[Python](./code/RemoveNodesFromLinkedList/RemoveNodesFromLinkedList.py)|Medium|
+|3217|[Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)|Linked List|[Python](./code/DeleteNodesLinkedListPresentInArray/DeleteNodesLinkedListPresentInArray.py)|Medium|
