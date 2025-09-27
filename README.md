@@ -51,3 +51,4 @@
 |2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)|Linked List|[Python](./code/RemoveNodesFromLinkedList/RemoveNodesFromLinkedList.py)|Medium|
 |3217|[Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)|Linked List|[Python](./code/DeleteNodesLinkedListPresentInArray/DeleteNodesLinkedListPresentInArray.py)|Medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|Linked List|[Python](./code/RemoveDuplicatesSortedList2/RemoveDuplicatesSortedList2.py)|Medium|
+|3157|[Find the Level of Tree with Minimum Sum](https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum/)|BFS|[Python](./code/MinSumLevelTree/MinSumLevelTree.py)|Medium|
