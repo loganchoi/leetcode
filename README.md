@@ -54,3 +54,4 @@
 |3157|[Find the Level of Tree with Minimum Sum](https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum/)|BFS|[Python](./code/MinSumLevelTree/MinSumLevelTree.py)|Medium|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|Tree, DFS|[Python](./code/BinaryTreeLongestConsecutiveSequence/BinaryTreeLongestConsecutiveSequence.py)|Medium|
 |3294|[Convert Doubly Linked List to Array II](https://leetcode.com/problems/convert-doubly-linked-list-to-array-ii/)|Linked List|[Python](./code/ConvertDoublyLinkedListToArray2/ConvertDoublyLinkedListToArray2.py)|Medium|
+|2512|[Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/)|Heap, String|[Python](./code/RewardTopKStudents/RewardTopKStudents.py)|Medium|
