@@ -56,3 +56,4 @@
 |3294|[Convert Doubly Linked List to Array II](https://leetcode.com/problems/convert-doubly-linked-list-to-array-ii/)|Linked List|[Python](./code/ConvertDoublyLinkedListToArray2/ConvertDoublyLinkedListToArray2.py)|Medium|
 |2512|[Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/)|Heap, String|[Python](./code/RewardTopKStudents/RewardTopKStudents.py)|Medium|
 |3350|[Adjacent Increasing Subarrays Detection II](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/)|Sliding Window|[Python](./code/AdjacentIncraesingSubarrays2/AdjacentIncraesingSubarrays2.py)|Medium|
+|286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates)|BFS|[Python](./code/WallsAndGates/WallsAndGates.py)|Medium|
