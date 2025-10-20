@@ -57,3 +57,4 @@
 |2512|[Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/)|Heap, String|[Python](./code/RewardTopKStudents/RewardTopKStudents.py)|Medium|
 |3350|[Adjacent Increasing Subarrays Detection II](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/)|Sliding Window|[Python](./code/AdjacentIncraesingSubarrays2/AdjacentIncraesingSubarrays2.py)|Medium|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates)|BFS|[Python](./code/WallsAndGates/WallsAndGates.py)|Medium|
+|1197|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)|BFS|[Python](./code/MinKnightMoves/MinKnightMoves.py)|Medium|
